@@ -22,5 +22,3 @@ This project analyzes Adventure Works' first-quarter sales performance for 2022 
 2. Check the **Summary** worksheet for overall Q1 sales totals and growth.
 3. Explore the **PivotTable** worksheet to analyze sales by product line and category.
 
-## Key Insights
-- [Optional: Add any observations, e.g., "Product A had the highest growth in Q1 2023."]
