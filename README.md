@@ -15,7 +15,6 @@ This project analyzes Adventure Works' first-quarter sales performance for 2022 
 ## Project Highlights
 - **Summary Worksheet:** Displays Q1 totals, monthly breakdowns, and percentage growth.
 - **PivotTable Worksheet:** Allows management to analyze sales performance by product and category.
-- **Charts (optional):** Visual representation of trends and growth.
 
 ## How to Use
 1. Open `Quarter One Report.xlsx`.
