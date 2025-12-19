@@ -1,33 +1,26 @@
-# Quarter-One-Sales-Analysis-Adventure-Works
-Project Overview
-This project analyzes the first-quarter sales performance for Adventure Works for 2022 and 2023. It includes a summary of total sales, percentage growth, monthly breakdowns, and insights into individual product lines.
+# Quarter One Sales Analysis – Adventure Works
 
-Objectives
+## Project Overview
+This project analyzes Adventure Works' first-quarter sales performance for 2022 and 2023. The analysis provides a summary of total sales, percentage growth, monthly breakdowns, and insights into individual product lines to support management decision-making.
 
-Calculate total sales for Q1 2022 and 2023
+## Objectives
+- Calculate total Q1 sales for 2022 and 2023
+- Compute percentage growth in sales from 2022 to 2023
+- Provide monthly sales breakdowns
+- Analyze sales performance by product and product category using a PivotTable
 
-Compute percentage growth in sales for 2023
+## Tools Used
+- Microsoft Excel (formulas, PivotTables, charts)
 
-Provide monthly sales breakdowns
+## Project Highlights
+- **Summary Worksheet:** Displays Q1 totals, monthly breakdowns, and percentage growth.
+- **PivotTable Worksheet:** Allows management to analyze sales performance by product and category.
+- **Charts (optional):** Visual representation of trends and growth.
 
-Analyze sales performance by product and product category using a PivotTable
+## How to Use
+1. Open `Quarter One Report.xlsx`.
+2. Check the **Summary** worksheet for overall Q1 sales totals and growth.
+3. Explore the **PivotTable** worksheet to analyze sales by product line and category.
 
-Tools Used
-
-Microsoft Excel (formulas, PivotTables, charts)
-
-Project Highlights
-
-Summary Worksheet: Shows totals, monthly breakdowns, and percentage growth.
-
-PivotTable Worksheet: Enables management to analyze sales by product line and category.
-
-Charts (optional): Visual representation of trends and growth.
-
-How to Use
-
-Open Quarter One Report.xlsx.
-
-View the Summary worksheet for overall Q1 sales and growth.
-
-Explore the PivotTable worksheet for insights into product-level performance.
+## Key Insights
+- [Optional: Add any observations, e.g., "Product A had the highest growth in Q1 2023."]
